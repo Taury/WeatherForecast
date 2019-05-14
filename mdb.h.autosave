@@ -1,0 +1,22 @@
+#ifndef MDB_H
+#define MDB_H
+
+#include <QWidget>
+#include <QString>
+
+#include <QSqlDatabase>
+#include <QSqlQuery>
+#include <QSqlTableModel>
+
+class Mdb : public QWidget
+{
+    Q_OBJECT
+public:
+    explicit Mdb(QWidget *parent = 0);
+
+signals:
+
+public slots:
+};
+
+#endif // MDB_H

@@ -1,0 +1,23 @@
+#ifndef CITYID_H
+#define CITYID_H
+
+#include <QWidget>
+#include <QString>
+#include <QSqlDatabase>
+
+
+
+class CityId : public QWidget
+{
+    Q_OBJECT
+public:
+    explicit CityId(QWidget *parent = 0);
+
+//    void insertCityId(QString db);
+
+signals:
+
+public slots:
+};
+
+#endif // CITYID_H

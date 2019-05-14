@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/暴雪.png</file>
+        <file>UI/暴雨.png</file>
+        <file>UI/查找.png</file>
+        <file>UI/大暴雨 .png</file>
+        <file>UI/大雪.png</file>
+        <file>UI/大雨.png</file>
+        <file>UI/冻雨.png</file>
+        <file>UI/多云.png</file>
+        <file>UI/浮尘.png</file>
+        <file>UI/雷阵雨.png</file>
+        <file>UI/雷阵雨伴有冰雹.png</file>
+        <file>UI/霾.png</file>
+        <file>UI/强沙尘暴.png</file>
+        <file>UI/晴.png</file>
+        <file>UI/特大暴雨.png</file>
+        <file>UI/雾.png</file>
+        <file>UI/小雪.png</file>
+        <file>UI/小雨.png</file>
+        <file>UI/扬沙.png</file>
+        <file>UI/阴.png</file>
+        <file>UI/雨夹雪.png</file>
+        <file>UI/阵雪.png</file>
+        <file>UI/阵雨.png</file>
+        <file>UI/中雪.png</file>
+        <file>UI/中雨.png</file>
+        <file>UI/Cloudy.png</file>
+        <file>UI/Rainy.png</file>
+        <file>UI/Snowy.png</file>
+        <file>UI/Sunny.png</file>
+    </qresource>
+</RCC>
