@@ -73,7 +73,7 @@ Database::Database(QWidget *parent) : QWidget(parent)
             QString msg = file.readAll();
             file.close();
 
-            QStringList list = msg.split("=");
+            QStringList list = msg.split(",");
 
             for(int i=0; i<list.count(); i++)
             {
