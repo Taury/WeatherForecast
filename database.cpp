@@ -27,13 +27,6 @@ Database::Database(QWidget *parent) : QWidget(parent)
             {
                 qDebug()<<"Open citykeys.txt failed!";
             }
-
-            while(file.canReadLine())
-            {
-                QString msg = file.readLine();
-            }
-
-
     #if 0
         QTextStream out(&file);
         QString str;
